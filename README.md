@@ -43,8 +43,5 @@ Inside client folder, run the command line, npm start and go to http://localhost
 
 <h2>Project Screens</h2>
 
-<img
-  src="[/path/to/img.jpg](https://i.imgur.com/QWq4y67.png)"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![arcnefinal](https://user-images.githubusercontent.com/93670626/173013195-e355ce0a-6149-494a-9b14-c02d504dc29b.png)
+
