@@ -42,3 +42,5 @@ Open the project console
 Inside client folder, run the command line, npm start and go to http://localhost:3000/.
 
 <h2>Project Screens</h2>
+
+<img src="<img src="/docs/logo.png" alt="My cool logo"/>" alt="My cool logo"/>
