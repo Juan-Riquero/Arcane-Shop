@@ -43,4 +43,4 @@ Inside client folder, run the command line, npm start and go to http://localhost
 
 <h2>Project Screens</h2>
 
-<img src="<img src="/docs/logo.png" alt="My cool logo"/>" alt="My cool logo"/>
+<a href="juan"><img src="[Imgur](https://i.imgur.com/QWq4y67.png)"></img></a>
