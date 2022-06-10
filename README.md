@@ -43,4 +43,6 @@ Inside client folder, run the command line, npm start and go to http://localhost
 
 <h2>Project Screens</h2>
 
-<a href="juan"><img src="[Imgur](https://i.imgur.com/QWq4y67.png)"></img></a>
+![alt text for screen readers]([/path/to/image.pn](https://i.imgur.com/QWq4y67.png) "Text to show on mouseover").
+
+
